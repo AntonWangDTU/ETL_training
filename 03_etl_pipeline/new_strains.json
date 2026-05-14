@@ -1,0 +1,23 @@
+[
+  {
+    "strain_code": "IBIS-007",
+    "species": "Mesorhizobium ciceri",
+    "isolation_source": "chickpea nodule",
+    "origin_country": "IN",
+    "nitrogen_fixing": 1
+  },
+  {
+    "strain_code": "IBIS-008",
+    "species": "Burkholderia vietnamiensis",
+    "isolation_source": "rice rhizosphere",
+    "origin_country": "VN",
+    "nitrogen_fixing": 1
+  },
+  {
+    "strain_code": "IBIS-001",
+    "species": "Rhizobium leguminosarum",
+    "isolation_source": "root nodule",
+    "origin_country": "DK",
+    "nitrogen_fixing": 1
+  }
+]

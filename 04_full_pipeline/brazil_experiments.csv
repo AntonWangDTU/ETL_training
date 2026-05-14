@@ -1,0 +1,5 @@
+experiment_id,site_code,strain_code,researcher_id,crop,treatment,start_date,end_date
+BR-2024-004,BR-CAMPINAS,IBIS-002,4,maize,inoculated,2024-10-01,2025-02-01
+BR-2024-005,BR-CAMPINAS,,4,maize,control,2024-10-01,2025-02-01
+BR-2024-006,BR-CAMPINAS,IBIS-999,4,maize,inoculated,2024-10-01,2025-02-01
+BR-2024-001,BR-CAMPINAS,IBIS-005,4,soybean,inoculated,2024-10-01,2025-02-01
